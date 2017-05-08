@@ -3,7 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-H1 -- Välkommen till Spelgalen!
+.. figure::  images/spel.pdf
+   :align:   left
+
+Välkommen till Spelgalen!
 =====================================
 
 .. toctree::
@@ -12,7 +15,7 @@ H1 -- Välkommen till Spelgalen!
 
 
 
-H2 -- Indices and tables
+Indices and tables
 ==================
 
 * :ref:`genindex`
