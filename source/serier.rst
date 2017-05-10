@@ -1,7 +1,7 @@
 < :ref:`hem`
 
-Serier
-*********
+Inspiration 
+***********
 
 Tetris
 ======
