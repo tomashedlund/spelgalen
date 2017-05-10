@@ -6,14 +6,16 @@
 .. figure::  images/spel.pdf
    :align:   left
 
+.. _hem:
+
 Välkommen till Spelgalen 2017!
 ******************************
 
 .. toctree::
-   :maxdepth: 2
-   :numbered:
+   :maxdepth: 1
+   :glob:
    
-   regler.rst
+   serier.rst
    deltagare.rst
    ansok.rst
 
